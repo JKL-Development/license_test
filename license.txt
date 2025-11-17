@@ -1,4 +1,4 @@
 {
-  "Free_Confighub": ["Nigdy, "Free"],
+  "Free_Confighub": ["Nigdy", "Free"],
   "PRO_54607892710": [365, "pro"]
 }
